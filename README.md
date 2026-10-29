@@ -12,6 +12,14 @@ A private Chrome extension that tracks your Asura Scans library and chapter prog
 - Survive Asura URL-ID rotations by using the suffix-free series route as the stable identity.
 - No Asura login access, analytics, external backend, or periodic background polling.
 
+## Screenshots
+
+The current popup interface with sample titles and chapter data. Cover images use the built-in fallback.
+
+| Library and chapter updates | Edit reading progress |
+| --- | --- |
+| <img src="docs/screenshots/library.png" alt="Library popup showing reading status filters, chapter progress, new free chapters, and a locked release" width="430" /> | <img src="docs/screenshots/edit-progress.png" alt="Edit progress controls with a chapter number field, Save, Read all, and Cancel buttons" width="430" /> |
+
 ## Build and load in Chrome
 
 Requirements: Node.js 20 or newer and npm.
