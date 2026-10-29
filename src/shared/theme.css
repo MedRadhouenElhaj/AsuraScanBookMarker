@@ -1,0 +1,14 @@
+:root, :host {
+  color-scheme: dark;
+  --accent: #913fe2;
+  --accent-hover: #a453ee;
+  --accent-text: #cf9fff;
+  --accent-soft: rgba(145, 63, 226, .16);
+  --background: #13111a;
+  --surface: #1c1924;
+  --surface-raised: #25212e;
+  --border: #393341;
+  --text: #f5f3f7;
+  --muted: #b6aebe;
+  --subtle: #a198ab;
+}
